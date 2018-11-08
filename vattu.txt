@@ -3,3 +3,6 @@ man hinh hp
 may tinh hp
 may tinh lennovo
 may in hp
+man hinh asus
+man hinh lenovo
+man hinh acer
