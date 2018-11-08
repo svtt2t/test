@@ -2,6 +2,6 @@ man hinh acer
 man hinh hp
 man hinh asus
 man hinh lenovo
-- may tinh hp
-- may tinh lennovo
-- may in
+may tinh hp
+may tinh lennovo
+may in hp
