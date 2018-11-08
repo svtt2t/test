@@ -1,2 +1,4 @@
 man hinh acer
 man hinh hp
+man hinh asus
+man hinh lenovo
